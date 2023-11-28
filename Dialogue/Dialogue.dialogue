@@ -1,0 +1,13 @@
+~ main
+
+Player: [[Hi|Hello|Hawdy]], are you a zombie?
+Zombie: Groml
+- Are you going to eat me?
+	Zombie: Groml
+- Pelase don't eat me! I'm not going to be tasteful. 
+	Zombie: Groml
+-End the conversation => END!
+Player: Thank God I have a gun in my hand.
+set Global.shoot()
+
+=> END
